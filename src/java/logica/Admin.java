@@ -1,5 +1,5 @@
 package logica;
-
+//aaaa
 public class Admin{
     //Atributos
     int IDadmin;
